@@ -1,0 +1,37 @@
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\learner\Desktop\LewisL\C#\Quiz\Quiz\obj\Debug\Quiz.pdb
+W:\C#\LewisL\Quiz\Quiz\bin\Debug\Quiz.exe.config
+W:\C#\LewisL\Quiz\Quiz\obj\Debug\Quiz.exe
+W:\C#\LewisL\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Premium\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\LewisL\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+T:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\bin\Debug\Quiz.exe.config
+T:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\obj\Debug\Quiz.exe
+T:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\obj\Debug\Quiz.pdb
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\bin\Debug\Quiz.exe.config
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\obj\Debug\Quiz.exe
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\obj\Debug\Quiz.pdb
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\bin\Debug\Quiz.exe
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\bin\Debug\Quiz.pdb
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.exe.config
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.exe
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.pdb
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.exe
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.pdb
+R:\Curriculum\Software\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.exe
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\bin\Debug\Quiz.pdb
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.exe
+C:\Users\tanveera\OneDrive - Just IT\DPP\03 Week 3 C#\Friday\Quiz - Basic\Quiz\obj\Debug\Quiz.pdb
